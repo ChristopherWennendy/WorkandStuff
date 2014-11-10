@@ -5,18 +5,15 @@ Fall Semester
 Period 6
 
 Main Projects
-Project 1 name
-Team members
-Description
-
-Describe your project here
-put the https clone link here
-Project 2 name
-Team members
-Description
-
-Describe your project here
-put the https clone link here
+===================
+RegEx Search / Data Scrape
+Christopher Wennendy, Cindy Wu , Sydney Acaputo, Eric Wong
+Eneter query for when or what. Will return results for what based on most common expression, returns dates with months and years for when.
+https://github.com/CinWu/WhenHowDo.git
+SQL blog engine
+Christopher Wennendy, Tina Lee , Anish Malhotra, Elvin Shoyfer
+Simple blog engine, able to login and post. Searches for posts based on user and title. Replaced comments with ability to login/register, because we thought both served the same function with putting info in a sql database.
+https://github.com/l-tn3314/Blog.git
 
 Mini Projects
 ==================

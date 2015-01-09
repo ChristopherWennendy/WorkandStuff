@@ -4,6 +4,11 @@ Fall Semester
 ===========================
 Period 5
 
+Final Project
+===================
+
+Christopher Wennendy , Adriel Mendoza, Ziwei Ye , Cindy Wu
+
 Main Projects
 ===================
 RegEx Search / Data Scrape
@@ -32,3 +37,9 @@ Mini Projects
     intro-proj 1
         Christopher Wennendy, Ziwei Ye
         5/intro-proj1/christopher_ziwei
+    todo
+        Christopher Wennendy
+        5/todo/christopher_wennendy
+    invisiblethluffy    
+        Christopher Wennendy, Ziwei Ye
+        5/invisiblethluffy/christopher_ziwei

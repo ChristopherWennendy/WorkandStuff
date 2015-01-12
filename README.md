@@ -9,7 +9,7 @@ Final Project
 
 Christopher Wennendy , Adriel Mendoza, Ziwei Ye , Cindy Wu
 
-https://github.com/Yuzhno/unnamed-JS-app
+https://github.com/Yuzhno/Flockcursor
 
 Main Projects
 ===================
